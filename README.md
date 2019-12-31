@@ -15,6 +15,11 @@ Here are some Tools to build a Image Dataset to train youre models with.
 6. Tool to annotate images for a YOLO  Image Dataset.
 
 
+
+Link to video that explains Tools:
+
+https://youtu.be/0_m_f29vso4
+
 Some helpfull Info:
 
 https://www.coria.com/en/insights/blog/computer-vision/preparing-data-for-custom-object-detection-using-nvidia-digits
